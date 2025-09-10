@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Sachin Maurya  
 
-<!--
-**smaurya4941/smaurya4941** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Full-Stack Developer | Machine Learning Enthusiast | React.js & Django | DSA Problem Solver**  
 
-Here are some ideas to get you started:
+---
+## 🌟 About Me  
+- 🎓 B.Tech CSE 3rd Year Student at **R.R. Institute of Modern Technology, Lucknow**  
+- 💻 Passionate about **Full-Stack Development, Machine Learning, and NLP**  
+- 🌱 Currently learning **Django Rest Framework, React.js, and Blockchain**  
+- 🏆 Solved **290+ LeetCode** and **300+ GFG** problems  
+---
+ 🛠️ Technical Skills  
+🔹 Programming & Frameworks  
+`Python` • `Java` • `C` • `JavaScript` • `Django` • `React.js` • `Streamlit`  
+🔹 Machine Learning & AI  
+`Machine Learning` • `NLP` • `OpenCV` • `scikit-learn`  
+🔹 Data & Visualization  
+`PostgreSQL` • `SQL` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn`  
+🔹 Core CS Subjects  
+`DSA` • `DBMS` • `Operating Systems` • `OOPs` • `AI` • `Blockchain`  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Projects  
+🔹 Web & Full-Stack  
+- 🏫 **School Management System (Django + SQL)** – Complete student/teacher management system  
+- 🌐 **Education Website (HTML, CSS, JS)** – Learning platform with interactive features  
+- ✅ **To-Do App (JavaScript)** – Simple task manager  
+- 👨‍💻 **Portfolio Website** – Personal portfolio showcasing projects  
+
+🔹 Machine Learning & AI  
+- 📷 **Smart Attendance System (QR + Face Recognition)** – Combines OpenCV + Streamlit for attendance  
+- ✉️ **SMS-Spam Detection App** – NLP with TF-IDF + Naive Bayes (~97% accuracy)  
+- 🖼️ **Photo Studio App** – Image editing with filters (resize, blur, sharpen, grayscale)  
+- 🩺 **Diabetes Prediction App** – ML-powered prediction app with Streamlit + visualizations  
+
+---
+📜 Training & Certifications  
+- **SoftPro India Internship** – Python/Django Developer (Jul–Sept 2024)  
+- **Certifications:**  
+  - Machine Learning with Python – Udemy (2025)  
+  - Machine Learning (8 Weeks) – Internshala (2024)  
+  - HTML, CSS, JavaScript  
+  - Python for Data Science  
+  - Data Structures & Algorithms in Java  
+---
+ 📈 Problem Solving Stats  
+- 🟢 **290+ problems** solved on **LeetCode**  
+- 🟢 **300+ problems** solved on **GeeksforGeeks**  
+- 🟢 **50+ problems** solved on **Coding Ninjas**  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: [sachinmaurya4941@gmail.com](mailto:sachinmaurya4941@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/smaurya4941](https://linkedin.com/in/smaurya4941)  
+- 🐙 GitHub: [github.com/smaurya4941](https://github.com/smaurya4941)  
+- 🌐 Portfolio: [sachinportfolio-one.vercel.app](https://sachinportfolio-one.vercel.app)  
+
+---
+
+⭐️ From [Sachin Maurya](https://github.com/smaurya4941)  
