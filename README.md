@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sachin Maurya  
 
-🚀 **Aspiring Full-Stack Developer | Machine Learning Enthusiast | React.js & Django | DSA Problem Solver**  
+🚀 **Aspiring Full-Stack Developer | Machine Learning Enthusiast | React.js & Django | DSA Problem Solver | PHP Developer | Laravel**  
 
 ---
 ## 🌟 About Me  
@@ -11,13 +11,13 @@
 ---
  🛠️ Technical Skills  
 🔹 Programming & Frameworks  
-`Python` • `Java` • `C` • `JavaScript` • `Django` • `React.js` • `Streamlit`  
+`Python` • `Java` • `C` • `JavaScript` • `Django` • `React.js` • `Streamlit` • `PHP` • `Laravel` • `Xampp` • `MySql` 
 🔹 Machine Learning & AI  
-`Machine Learning` • `NLP` • `OpenCV` • `scikit-learn`  
+`Machine Learning` • `NLP` • `OpenCV` • `scikit-learn`  • `pandas` • `numpy` 
 🔹 Data & Visualization  
 `PostgreSQL` • `SQL` • `NumPy` • `Pandas` • `Matplotlib` • `Seaborn`  
 🔹 Core CS Subjects  
-`DSA` • `DBMS` • `Operating Systems` • `OOPs` • `AI` • `Blockchain`  
+`DSA` • `DBMS` • `Operating Systems` • `OOPs` • `AI`   
 
 💼 Projects  
 🔹 Web & Full-Stack  
