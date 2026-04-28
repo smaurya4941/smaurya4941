@@ -11,7 +11,7 @@
 ---
  🛠️ Technical Skills  
 🔹 Programming & Frameworks  
-`Python` • `Java` • `C` • `JavaScript` • `Django` • `React.js` • `Streamlit` • `PHP` • `Laravel` • `Xampp` • `MySql` 
+`Python` • `Java` • `C` • `JavaScript` • `Django` • `React.js` • `Streamlit` • `PHP` • `Laravel` • `Xampp` • `MySql` • `Wordpress`• `Shopify`
 🔹 Machine Learning & AI  
 `Machine Learning` • `NLP` • `OpenCV` • `scikit-learn`  • `pandas` • `numpy` 
 🔹 Data & Visualization  
