@@ -4,7 +4,7 @@
 
 ---
 ## 🌟 About Me  
-- 🎓 B.Tech CSE 3rd Year Student at **R.R. Institute of Modern Technology, Lucknow**  
+- 🎓 B.Tech CSE 2026 at **R.R. Institute of Modern Technology, Lucknow**  
 - 💻 Passionate about **Full-Stack Development, Machine Learning, and NLP**  
 - 🌱 Currently learning **Django Rest Framework, React.js, and Blockchain**  
 - 🏆 Solved **290+ LeetCode** and **300+ GFG** problems  
