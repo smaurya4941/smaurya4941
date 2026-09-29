@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 💼 **PHP Laravel Developer with 1 year of professional experience**
+* 💼 **PHP Laravel Developer with 9 months of professional experience**
 * 🎓 **B.Tech in Computer Science & Engineering**
 * 🧑‍💻 Experienced in building and maintaining **production-level web applications**
 * ⚙️ Strong experience with **PHP, Laravel, MySQL, REST APIs, Blade, JavaScript, Tailwind CSS and Alpine.js**
